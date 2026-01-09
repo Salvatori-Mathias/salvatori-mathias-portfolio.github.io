@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/',
+  base: '/salvatori-mathias-portfolio.github.io/',
   css: {
     preprocessorOptions: {
       scss: {
